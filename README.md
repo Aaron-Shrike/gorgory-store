@@ -12,7 +12,7 @@ Tienda de merchandising de Gorgory, con páginas de productos (polos, pines, pos
 
 <div align="center">
 <img src="media/1-2.png">
-<p><strong>Imagen:</strong> Pasarela de pagos - Culqui.</p>
+<p><strong>Imagen:</strong> Pasarela de pagos - Culqi.</p>
 </div>
 
 ## Biografía
